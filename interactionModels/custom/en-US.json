@@ -1,0 +1,63 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "FrasesIntent",
+          "samples": [
+            "give me other information",
+            "Give me a fun fact about Voyager",
+            "Give me a curious fact about voyager",
+            "Give me an interesting fact about voyager",
+            "What do you know about Voyager",
+            "Tell me about voyager",
+            "I want to learn something new about the voyager probe",
+            "Tell me an important fact about voyager",
+            "Give me a curiosity about voyager",
+            "Can you give me a curious fact about the Voyager probe",
+            "Do you have any interesting facts about Voyager",
+            "I want to know something interesting about voyager",
+            "Tell me something interesting about the voyager probe",
+            "Tell me a curious fact about voyager"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curiosidades voyager edl"
+    }
+  }
+}

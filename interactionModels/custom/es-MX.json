@@ -1,0 +1,65 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "hola",
+            "como estas",
+            "di hola mundo",
+            "hola",
+            "hola mundo",
+            "di hola mundo",
+            "di hola"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "FrasesIntent",
+          "samples": [
+            "dame otro  dato",
+            "dame otro dato del voyager",
+            "Dame un dato curioso sobre el voyager",
+            "Dame un dato curioso del voyager",
+            "Dame un dato interesante sobre el voyager",
+            "Dame un dato interesante del voyager",
+            "Que sabes sobre el voyager",
+            "Hablame del voyager",
+            "Quiero aprender algo nuevo sobre la sonda voyager",
+            "Cuéntame un hecho importante sobre la voyager",
+            "Dame una curiosidad sobre la voyager",
+            "Puedes darme un dato curioso de la sonda voyager",
+            "Tienes algún hecho interesante sobre la voyager",
+            "Quiero saber una curiosidad sobre la voyager",
+            "Cuentame algo interesante sobre la sonda voyager",
+            "Dime un dato curioso sobre la voyager"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "curiosidades voyager edl"
+    }
+  }
+}
